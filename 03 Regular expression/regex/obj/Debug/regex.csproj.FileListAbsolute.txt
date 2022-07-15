@@ -1,0 +1,10 @@
+C:\Users\igor.kornaukhov\CloudMail\Учёба\C#\03 Regular expression\regex\bin\Debug\regex.exe.config
+C:\Users\igor.kornaukhov\CloudMail\Учёба\C#\03 Regular expression\regex\bin\Debug\regex.exe
+C:\Users\igor.kornaukhov\CloudMail\Учёба\C#\03 Regular expression\regex\bin\Debug\regex.pdb
+C:\Users\igor.kornaukhov\CloudMail\Учёба\C#\03 Regular expression\regex\obj\Debug\regex.csproj.AssemblyReference.cache
+C:\Users\igor.kornaukhov\CloudMail\Учёба\C#\03 Regular expression\regex\obj\Debug\regex.Form1.resources
+C:\Users\igor.kornaukhov\CloudMail\Учёба\C#\03 Regular expression\regex\obj\Debug\regex.Properties.Resources.resources
+C:\Users\igor.kornaukhov\CloudMail\Учёба\C#\03 Regular expression\regex\obj\Debug\regex.csproj.GenerateResource.cache
+C:\Users\igor.kornaukhov\CloudMail\Учёба\C#\03 Regular expression\regex\obj\Debug\regex.csproj.CoreCompileInputs.cache
+C:\Users\igor.kornaukhov\CloudMail\Учёба\C#\03 Regular expression\regex\obj\Debug\regex.exe
+C:\Users\igor.kornaukhov\CloudMail\Учёба\C#\03 Regular expression\regex\obj\Debug\regex.pdb

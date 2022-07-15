@@ -1,0 +1,21 @@
+C:\Users\admin\Documents\CloudMail\Учёба\C#\02 Simple txt editor\bin\Debug\02 Simple txt editor.exe.config
+C:\Users\admin\Documents\CloudMail\Учёба\C#\02 Simple txt editor\bin\Debug\02 Simple txt editor.exe
+C:\Users\admin\Documents\CloudMail\Учёба\C#\02 Simple txt editor\bin\Debug\02 Simple txt editor.pdb
+C:\Users\admin\Documents\CloudMail\Учёба\C#\02 Simple txt editor\obj\Debug\02 Simple txt editor.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\CloudMail\Учёба\C#\02 Simple txt editor\obj\Debug\02 Simple txt editor.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Documents\CloudMail\Учёба\C#\02 Simple txt editor\obj\Debug\_02_Simple_txt_editor.Form1.resources
+C:\Users\admin\Documents\CloudMail\Учёба\C#\02 Simple txt editor\obj\Debug\_02_Simple_txt_editor.Properties.Resources.resources
+C:\Users\admin\Documents\CloudMail\Учёба\C#\02 Simple txt editor\obj\Debug\02 Simple txt editor.csproj.GenerateResource.cache
+C:\Users\admin\Documents\CloudMail\Учёба\C#\02 Simple txt editor\obj\Debug\02 Simple txt editor.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\CloudMail\Учёба\C#\02 Simple txt editor\obj\Debug\02 Simple txt editor.exe
+C:\Users\admin\Documents\CloudMail\Учёба\C#\02 Simple txt editor\obj\Debug\02 Simple txt editor.pdb
+C:\Users\igor.kornaukhov\CloudMail\Учёба\C#\02 Simple txt editor\bin\Debug\02 Simple txt editor.exe.config
+C:\Users\igor.kornaukhov\CloudMail\Учёба\C#\02 Simple txt editor\bin\Debug\02 Simple txt editor.exe
+C:\Users\igor.kornaukhov\CloudMail\Учёба\C#\02 Simple txt editor\bin\Debug\02 Simple txt editor.pdb
+C:\Users\igor.kornaukhov\CloudMail\Учёба\C#\02 Simple txt editor\obj\Debug\02 Simple txt editor.csproj.AssemblyReference.cache
+C:\Users\igor.kornaukhov\CloudMail\Учёба\C#\02 Simple txt editor\obj\Debug\_02_Simple_txt_editor.Form1.resources
+C:\Users\igor.kornaukhov\CloudMail\Учёба\C#\02 Simple txt editor\obj\Debug\_02_Simple_txt_editor.Properties.Resources.resources
+C:\Users\igor.kornaukhov\CloudMail\Учёба\C#\02 Simple txt editor\obj\Debug\02 Simple txt editor.csproj.GenerateResource.cache
+C:\Users\igor.kornaukhov\CloudMail\Учёба\C#\02 Simple txt editor\obj\Debug\02 Simple txt editor.csproj.CoreCompileInputs.cache
+C:\Users\igor.kornaukhov\CloudMail\Учёба\C#\02 Simple txt editor\obj\Debug\02 Simple txt editor.exe
+C:\Users\igor.kornaukhov\CloudMail\Учёба\C#\02 Simple txt editor\obj\Debug\02 Simple txt editor.pdb
